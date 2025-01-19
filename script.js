@@ -5,7 +5,13 @@ let linhas = ''
 formAgenda.addEventListener('submit', function(e){
     e.preventDefault();
     
-    const corpoTabela = document.querySelector('tbody');
+    adicionaContato();
+    atualizaTabela();
+});
+
+
+//funções
+function adicionaContato (){
     const nomeContato = document.getElementById('nome-contato');
     const telefoneContato = document.getElementById('telefone-contato');
     
@@ -14,6 +20,13 @@ formAgenda.addEventListener('submit', function(e){
     linha += `<td>${telefoneContato.value}</td>`;
     linha += `</tr>`;
     linhas += linha;
+    
+    
+    nomeContato.value = '';
+    telefoneContato.value = '';
+}
 
+function atualizaTabela(){
+    const corpoTabela = document.querySelector('tbody');
     corpoTabela.innerHTML = linhas;
-})
+}
