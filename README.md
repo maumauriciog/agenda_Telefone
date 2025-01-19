@@ -1,4 +1,4 @@
-# 📑 Agenda Telefone
+# 📑 Agenda Telefônica
 Este site foi desenvolvido para o usuário realizar o cadastro de todos os seus contatos, incluindo os telefones. As informações serão apagadas ao sair do navegador.
 
 
