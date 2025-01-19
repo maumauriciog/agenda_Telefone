@@ -7,8 +7,8 @@ Este site foi desenvolvido para o usuário realizar o cadastro de todos os seus 
 
 ## : Tecnologias
 * HTML
-* JavaScript
 * CSS
+* JavaScript
 
 ### TO DO
 - Melhorar estilização do site e incluir os dados em um Banco de Dados.
