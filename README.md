@@ -4,7 +4,7 @@ Este site foi desenvolvido para o cadastro de todos os contatos, incluindo os te
 
 ## 📸: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/imgs/imgA.png" width="260">&emsp;<img src="/imgs/imgB.png" width="260">
+<img src="/imgs/imgA.jpg" width="260">&emsp;<img src="/imgs/imgB.jpg" width="260">
 
 ## : Tecnologias
 * HTML
