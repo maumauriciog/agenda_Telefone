@@ -16,8 +16,8 @@ function adicionaContato (){
     const telefoneContato = document.getElementById('telefone-contato');
     
     let linha = `<tr>`;
-    linha += `<td>${nomeContato.value}</td>`;
-    linha += `<td>${telefoneContato.value}</td>`;
+    linha += `<td id='AdicionaLinha'>${nomeContato.value}</td>`;
+    linha += `<td id='AdicionaLinha'>${telefoneContato.value}</td>`;
     linha += `</tr>`;
     linhas += linha;
     
