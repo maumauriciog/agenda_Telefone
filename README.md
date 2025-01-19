@@ -1,5 +1,5 @@
 # 📑 Agenda Telefônica
-Este site foi desenvolvido para o usuário realizar o cadastro de todos os seus contatos, incluindo os telefones. As informações serão apagadas ao sair do navegador.
+Este site foi desenvolvido para o cadastro de todos os contatos, incluindo os telefones. As informações serão apagadas ao sair do navegador.
 
 
 ## 📸: Screenshots
